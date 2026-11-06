@@ -1,0 +1,6 @@
+{
+  "name": "ML Studio - Phân Tích Dữ Liệu & XGBoost",
+  "description": "Nền tảng phân tích dữ liệu, thống kê, tiền xử lý, huấn luyện mô hình XGBoost và dự đoán rủi ro tài chính (Financial Loan) trực quan theo phong cách Streamlit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
